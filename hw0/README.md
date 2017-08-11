@@ -1,6 +1,8 @@
 
 # Homework 0: Executables #
 
+### This is an individual assignment
+### Points: 5% of your final grade
 ### **Due: 17 August 2017, 11:59 PM**
 
 ## 1 Git
